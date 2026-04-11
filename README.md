@@ -25,3 +25,7 @@ In addition, I actively study Python on my own and explore various backend devel
 
 📧 Email: **simakov0310@gmail.com**<br>
 💬 Telegram: **@vompoy**
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ6dnl6NTE5OXJtOTRkangyNnp3eXpneDB1NTN6ajB3eXJqdXpvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRDi8iZsJnbQ8FIjLx/giphy.gif" width="300"/>
+</p>
