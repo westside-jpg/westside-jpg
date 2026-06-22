@@ -6,20 +6,25 @@ Hi, my name is Daniil.
 I am a first-year student at the Far Eastern Federal University.
 
 Currently, I am learning the fundamentals of programming in C++ as part of my studies.  
-In addition, I actively study Python on my own and explore various backend development tools to build and improve my own projects.
+In addition, I actively study Python and Go on my own and explore various backend development tools to build and improve my own projects.
 
 ## 💻 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6C37?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 ## 📑 Projects
-🚧 **LinkShorter** - a service that shorts long links *(in development)*<br>
-✅ **MochiGIF** - an application that allows you to add GIF-stickers on desktop (avaliable on <a href="https://mochigif.online">mochigif.online</a>) *(04.2026 - 06.2026)*<br>
-🚧 **DayHob** — a social network designed to combat doomscrolling *(in development)*<br>
+🚧 **<a href="https://github.com/westside-jpg/LinkShorter">LinkShorter</a>** - a service that shorts long links *(in development)*<br>
+✅ **<a href="https://mochigif.online">MochiGIF</a>** - an application that allows you to add GIF-stickers on desktop *(04.2026 - 06.2026)*<br>
+✅ **<a href="https://github.com/seregameiran/project_game">Billy's Adventure</a>** - a game project for studies in command (02.2026 - 05.2026)<br>
+🚧 **<a href="https://github.com/westside-jpg/DayHob">DayHob</a>** — a social network designed to combat doomscrolling *(in development)*<br>
 ✅ **KosmosTaroBot** — a Telegram bot for tarot card readings *(07.2025 – 09.2025)*
 
 ## 📫 Contacts
