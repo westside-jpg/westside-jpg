@@ -18,7 +18,7 @@ In addition, I actively study Python on my own and explore various backend devel
 
 ## 📑 Projects
 🚧 **LinkShorter** - a service that shorts long links *(in development)*<br>
-✅ **MochiGIF** - an application that allows you to add GIF-stickers on desktop (avaliable on <a href="mochigif.online">mochigif.online</a>) *(04.2026 - 06.2026)*<br>
+✅ **MochiGIF** - an application that allows you to add GIF-stickers on desktop (avaliable on <a href="https://mochigif.online">mochigif.online</a>) *(04.2026 - 06.2026)*<br>
 🚧 **DayHob** — a social network designed to combat doomscrolling *(in development)*<br>
 ✅ **KosmosTaroBot** — a Telegram bot for tarot card readings *(07.2025 – 09.2025)*
 
