@@ -48,3 +48,9 @@ In addition, I actively study Python and Go on my own and explore various backen
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ6dnl6NTE5OXJtOTRkangyNnp3eXpneDB1NTN6ajB3eXJqdXpvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRDi8iZsJnbQ8FIjLx/giphy.gif" width="300"/>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=westside-jpg&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
