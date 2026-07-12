@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, my name is Daniil.  
-I am a first-year student at the Far Eastern Federal University.
+Hi, my name is Daniil  
+I am a first-year student at the Far Eastern Federal University
 
-Currently, I am learning the fundamentals of programming in C++ as part of my studies.  
-In addition, I actively study Python and Go on my own and explore various backend development tools to build and improve my own projects.
+Currently, I am learning the fundamentals of programming in C++ as part of my studies  
+In addition, I actively study Python and Go on my own and explore various backend development tools to build and improve my own projects
 
 ## 💻 Technologies
 
@@ -36,10 +36,10 @@ In addition, I actively study Python and Go on my own and explore various backen
 
 ## 📑 Projects
 🚧 **<a href="https://github.com/westside-jpg/LinkShorter">LinkShorter</a>** - a service that shorts long links *(in development)*<br>
-✅ **<a href="https://mochigif.online">MochiGIF</a>** - an application that allows you to add GIF-stickers on desktop *(04.2026 - 06.2026)*<br>
-✅ **<a href="https://github.com/seregameiran/project_game">Billy's Adventure</a>** - a game project for studies in command (02.2026 - 05.2026)<br>
-🚧 **<a href="https://github.com/westside-jpg/DayHob">DayHob</a>** — a social network designed to combat doomscrolling *(in development)*<br>
-✅ **KosmosTaroBot** — a Telegram bot for tarot card readings *(07.2025 – 09.2025)*
+✅ **<a href="https://mochigif.online">MochiGIF</a>** - an application that allows you to add GIF-stickers on desktop *(04.2026 – 06.2026)*<br>
+✅ **<a href="https://github.com/seregameiran/project_game">Billy's Adventure</a>** - a game project for studies in command (02.2026 – 05.2026)<br>
+🚧 **<a href="https://github.com/westside-jpg/DayHob">DayHob</a>** - a social network designed to combat doomscrolling *(in development)*<br>
+✅ **KosmosTaroBot** - a Telegram bot for tarot card readings *(07.2025 – 09.2025)*
 
 ## 📫 Contacts
 
