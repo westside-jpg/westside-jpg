@@ -32,6 +32,7 @@ In addition, I actively study Python and Go on my own and explore various backen
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6C37?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![pgx](https://img.shields.io/badge/-pgx-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📑 Projects
 🚧 **<a href="https://github.com/westside-jpg/LinkShorter">LinkShorter</a>** - a service that shorts long links *(in development)*<br>
