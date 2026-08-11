@@ -11,8 +11,8 @@ In addition, I actively study Python and Go on my own and explore various backen
 ## 💻 Technologies
 
 🧠 **Languages**<br><br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 🎨 **Frontend**<br><br>
@@ -25,11 +25,12 @@ In addition, I actively study Python and Go on my own and explore various backen
 ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ⚡ **Backend**<br><br>
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 🗄️ **Databases**<br><br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6C37?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![pgx](https://img.shields.io/badge/-pgx-00ADD8?style=for-the-badge&logo=go&logoColor=white)
