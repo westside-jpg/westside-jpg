@@ -5,7 +5,7 @@
 Hi, my name is Daniil  
 I am a second-year student at the Far Eastern Federal University
 
-Currently, I am learning the fundamentals of programming in C++ as part of my studies  
+Currently, I am learning the fundamentals of programming as part of my studies
 In addition, I actively study Python and Go on my own and explore various backend development tools to build and improve my own projects
 
 ## 💻 Technologies
